@@ -1,0 +1,24 @@
+{
+  "start_time": 1755244515.2599814,
+  "metrics": {
+    "productivity_score": 10.0,
+    "focus_score": 0.08999999999999969,
+    "phone_detections": 0,
+    "emotion_data": {
+      "angry": "0.06266499",
+      "disgust": "1.0865378e-08",
+      "fear": "63.238876",
+      "happy": "27.167395",
+      "sad": "3.5847406",
+      "surprise": "4.194929",
+      "neutral": "1.7513982"
+    },
+    "activity_states": {
+      "focused": 61,
+      "phone_distraction": 0,
+      "away_from_screen": 0,
+      "multiple_faces": 2
+    }
+  },
+  "frames_processed": 122
+}
